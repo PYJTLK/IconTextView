@@ -7,4 +7,4 @@ allprojects {</br>
 		}</br>
 	}</br>
 
-implementation 'com.github.PYJTLK:IconTextView:1.0.0'
+implementation 'com.github.PYJTLK:IconTextView:1.0.1'
